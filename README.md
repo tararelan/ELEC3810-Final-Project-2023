@@ -1,5 +1,4 @@
-# ELEC3810-Final-Project
-## Final Project for ELEC3810 (Data Science for Neural Engineering) at HKUST in Fall 2023
+# Final Project for ELEC3810 (Data Science for Neural Engineering) at HKUST in Fall 2023
 
 ### Experiment Paradigm
 When there is a start cue, the rat is supposed to press the lever. Then a water reward will be given to him.
