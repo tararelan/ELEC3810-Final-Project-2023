@@ -1,11 +1,9 @@
-# Final Project for ELEC3810 (Data Science for Neural Engineering) at HKUST in Fall 2023
-
+# Neural Network to Classify a Rat's Lever-Press State Based on Neural Firing Information
+## Final Project for ELEC3810 (Data Science for Neural Engineering) at HKUST in Fall 2023
 ### Experiment Paradigm
 When there is a start cue, the rat is supposed to press the lever. Then a water reward will be given to him.
-
 ### Objective
 Classify the rat's lever-press state (press or rest) from his neural firing information (spike).
-
 ### Data Description
 trainSpike (16 * 13145) - The rows represents different channels. The columns represent the time sequence of the experiment. Each column means 100ms, so our training experiment lasts for 1314.5s. The value of the matrix represents the spike count in that time window.
 
